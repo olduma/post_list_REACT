@@ -23,10 +23,9 @@ const Header = styled.div`             // CSS in JS
   }
 `
 
-// ми можемо наслідувати
-const ChildHeader = styled(Header)`     // same like Header + background-color
-  background-color: blue;
-`
+//const ChildHeader = styled(Header)`     // same like Header + background-color
+//  background-color: blue;
+//`
 
 const AppHeader = ({allPosts, liked}) => {
 
