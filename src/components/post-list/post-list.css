@@ -1,0 +1,13 @@
+.app-list {
+    margin-top: 10px;
+}
+.app-list .list-group-item {
+  padding: 20px 35px 10px 35px;
+  margin-top: 10px;
+  background-color: #15202b;
+}
+
+.app-list .list-group-item:hover {
+    background-color: #1e2732;
+}
+
